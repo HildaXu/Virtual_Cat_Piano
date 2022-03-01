@@ -4,7 +4,9 @@ Try out the live Virtual Cat Piano [HERE][1]!
 
 ## Project Summary
 
-By implementing HTML, CSS and JavaScript, this project creates a virtual Piano Cat which can be played by clinking with a mouse or with computer keyboard. This video is inspred by [YouTube Cat Piano-Play it with your computer keyboard][2], which is a video with sounds of each key on Piano Cat and allows to play by jumping on the progress bar. However, this video does not allow play 2 keys at the same time and it is very difficult to play the balck keys. Thus, I decide to create this website to provide Cat Piano lovers with better experience of playing Cat Piano virtually. 
+By implementing HTML, CSS and JavaScript, this project creates a virtual Piano Cat which can be played by clinking with a mouse or with computer keyboard. 
+
+This video is inspred by [YouTube Cat Piano-Play it with your computer keyboard][2], which is a video with sounds of each key on Piano Cat and allows to play by jumping on the progress bar. However, this video does not allow play 2 keys at the same time and it is very difficult to play the balck keys. Thus, I decide to create this website to provide Cat Piano lovers with better experience of playing Cat Piano virtually. 
 
 ## How to Play
 
