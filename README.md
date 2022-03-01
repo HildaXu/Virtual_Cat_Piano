@@ -1,4 +1,4 @@
-# Virtual_Cat_Piano
+# Virtual_Cat_Piano 😺🎹
 
 Try out the live Virtual Cat Piano [HERE][1]! 
 
