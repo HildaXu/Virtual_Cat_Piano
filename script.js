@@ -1,32 +1,20 @@
-const C3 = new Audio("sounds/C3.mp3");
-const Db3 = new Audio("sounds/Db3.mp3");
-const D3 = new Audio("sounds/D3.mp3");
-const Eb3 = new Audio("sounds/Eb3.mp3");
-const E3 = new Audio("sounds/E3.mp3");
-const F3 = new Audio("sounds/F3.mp3");
-const Gb3 = new Audio("sounds/Gb3.mp3");
-const G3 = new Audio("sounds/G3.mp3");
-const Ab3 = new Audio("sounds/Ab3.mp3");
-const A3 = new Audio("sounds/A3.mp3");
-const Bb3 = new Audio("sounds/Bb3.mp3");
-const B3 = new Audio("sounds/B3.mp3");
-const C4 = new Audio("sounds/C4.mp3");
-const Db4 = new Audio("sounds/Db4.mp3");
-const D4 = new Audio("sounds/D4.mp3");
-const Eb4 = new Audio("sounds/Eb4.mp3");
-const E4 = new Audio("sounds/E4.mp3");
-const F4 = new Audio("sounds/F4.mp3");
-const Gb4 = new Audio("sounds/Gb4.mp3");
-const G4 = new Audio("sounds/G4.mp3");
-const Ab4 = new Audio("sounds/Ab4.mp3");
-const A4 = new Audio("sounds/A4.mp3");
-const Bb4 = new Audio("sounds/Bb4.mp3");
-const B4 = new Audio("sounds/B4.mp3");
-const C5 = new Audio("sounds/C5.mp3");
-const Db5 = new Audio("sounds/Db5.mp3");
-const D5 = new Audio("sounds/D5.mp3");
-const Eb5 = new Audio("sounds/Eb5.mp3");
-const E5 = new Audio("sounds/E5.mp3");
+const C3 = new Audio("sounds/C3.m4a");
+const Db3 = new Audio("sounds/Db3.m4a");
+const D3 = new Audio("sounds/D3.m4a");
+const Eb3 = new Audio("sounds/Eb3.m4a");
+const E3 = new Audio("sounds/E3.m4a");
+const F3 = new Audio("sounds/F3.m4a");
+const Gb3 = new Audio("sounds/Gb3.m4a");
+const G3 = new Audio("sounds/G3.m4a");
+const Ab3 = new Audio("sounds/Ab3.m4a");
+const A3 = new Audio("sounds/A3.m4a");
+const Bb3 = new Audio("sounds/Bb3.m4a");
+const B3 = new Audio("sounds/B3.m4a");
+const C4 = new Audio("sounds/C4.m4a");
+const Db4 = new Audio("sounds/Db4.m4a");
+const D4 = new Audio("sounds/D4.m4a");
+const Eb4 = new Audio("sounds/Eb4.m4a");
+const E4 = new Audio("sounds/E4.m4a");
 
 const playSound = audio => {
   const clone = audio.cloneNode();
@@ -304,34 +292,34 @@ window.addEventListener("keydown", ({ keyCode }) => {
 
     // Press S
     if (keyCode === 83) return playDb3();
-  
+
     // Press X
     if (keyCode === 88) return playD3();
-  
+
     // Press D
     if (keyCode === 68) return playEb3();
-  
+
     // Press `
     if (keyCode === 192) return playE3();
-  
+
     // Press TAB
     if (keyCode === 9) return playF3();
-  
+
     // Press 1
     if (keyCode === 49) return playGb3();
-  
+
     // Press Q
     if (keyCode === 81) return playG3();
-  
+
     // Press 2
     if (keyCode === 50) return playAb3();
-  
+
     // Press W
     if (keyCode === 87) return playA3();
-  
+
     // Press 3
     if (keyCode === 51) return playBb3();
-  
+
     // Press E
     if (keyCode === 69) return playB3();
 
@@ -380,9 +368,21 @@ window.addEventListener("keydown", ({ keyCode }) => {
   // Press }
   if (keyCode === 221) return playD5();
 
-  // Press Backspace 
+  // Press Backspace
   if (keyCode === 8) return playEb5();
 
   // Press |
   if (keyCode === 220) return playE5();
-}); 
+});
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
