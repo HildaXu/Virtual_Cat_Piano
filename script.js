@@ -291,11 +291,11 @@ window.addEventListener("keydown", ({ keyCode }) => {
     // Press 1
     if (keyCode === 97) return playC3();
 
-    // Press S
-    if (keyCode === 83) return playDb3();
+    // Press Q
+    if (keyCode === 81) return playDb3();
 
-    // Press X
-    if (keyCode === 88) return playD3();
+    // Press 2
+    if (keyCode === 98) return playD3();
 
     // Press D
     if (keyCode === 68) return playEb3();
