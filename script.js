@@ -1,20 +1,20 @@
 const C3 = new Audio("sounds/C3.mp3");
 const Db3 = new Audio("sounds/Db3.mp3");
-const D3 = new Audio("sounds/D3.m4a");
-const Eb3 = new Audio("sounds/Eb3.m4a");
-const E3 = new Audio("sounds/E3.m4a");
-const F3 = new Audio("sounds/F3.m4a");
-const Gb3 = new Audio("sounds/Gb3.m4a");
-const G3 = new Audio("sounds/G3.m4a");
-const Ab3 = new Audio("sounds/Ab3.m4a");
-const A3 = new Audio("sounds/A3.m4a");
-const Bb3 = new Audio("sounds/Bb3.m4a");
-const B3 = new Audio("sounds/B3.m4a");
-const C4 = new Audio("sounds/C4.m4a");
-const Db4 = new Audio("sounds/Db4.m4a");
-const D4 = new Audio("sounds/D4.m4a");
-const Eb4 = new Audio("sounds/Eb4.m4a");
-const E4 = new Audio("sounds/E4.m4a");
+const D3 = new Audio("sounds/D3.mp3");
+const Eb3 = new Audio("sounds/Eb3.mp3");
+const E3 = new Audio("sounds/E3.mp3");
+const F3 = new Audio("sounds/F3.mp3");
+const Gb3 = new Audio("sounds/Gb3.mp3");
+const G3 = new Audio("sounds/G3.mp3");
+const Ab3 = new Audio("sounds/Ab3.mp3");
+const A3 = new Audio("sounds/A3.mp3");
+const Bb3 = new Audio("sounds/Bb3.mp3");
+const B3 = new Audio("sounds/B3.mp3");
+const C4 = new Audio("sounds/C4.mp3");
+const Db4 = new Audio("sounds/Db4.mp3");
+const D4 = new Audio("sounds/D4.mp3");
+const Eb4 = new Audio("sounds/Eb4.mp3");
+const E4 = new Audio("sounds/E4.mp3");
 
 const playSound = audio => {
   const clone = audio.cloneNode();
