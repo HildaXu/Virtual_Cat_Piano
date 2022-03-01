@@ -337,40 +337,17 @@ window.addEventListener("keydown", ({ keyCode }) => {
 
   // Press Y
   if (keyCode === 89) return playE4();
-
-  // Press U
-  if (keyCode === 85) return playF4();
-
-  // Press 8
-  if (keyCode === 56) return playGb4();
-
-  // Press I
-  if (keyCode === 73) return playG4();
-
-  // Press 9
-  if (keyCode === 57) return playAb4();
-
-  // Press O
-  if (keyCode === 79) return playA4();
-
-  // Press 0
-  if (keyCode === 48) return playBb4();
-
-  // Press P
-  if (keyCode === 80) return playB4();
-
-  // Press {
-  if (keyCode === 219) return playC5();
-
-  // Press +
-  if (keyCode === 187) return playDb5();
-
-  // Press }
-  if (keyCode === 221) return playD5();
-
-  // Press Backspace
-  if (keyCode === 8) return playEb5();
-
-  // Press |
-  if (keyCode === 220) return playE5();
+  
 });
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
