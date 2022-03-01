@@ -8,7 +8,7 @@ By implementing HTML, CSS and JavaScript, this project creates a virtual Piano C
 
 This video is inspred by [YouTube Cat Piano-Play it with your computer keyboard][2], which is a video with sounds of each key on Piano Cat and allows to play by jumping on the progress bar. However, this video does not allow play 2 keys at the same time and it is very difficult to play the balck keys. Thus, I decide to create this website to provide Cat Piano lovers with better experience of playing Cat Piano virtually. 
 
-## How to Play
+## How to Play 🎶
 
 1. Use a mouse to click at the desired keys.
 2. Use keyboard. "1" to "0" correspond to the white keys from left to right. "q", "w", "r", "t", "y", "i", "o" correspond to the black keys from left to right. （Only lowercase letters are supported)
