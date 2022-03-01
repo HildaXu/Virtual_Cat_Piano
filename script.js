@@ -288,8 +288,8 @@ const playE5 = () => {
 E5Key.addEventListener("click", playE5);
 
 window.addEventListener("keydown", ({ keyCode }) => {
-    // Press Z
-    if (keyCode === 90) return playC3();
+    // Press 1
+    if (keyCode === 97) return playC3();
 
     // Press S
     if (keyCode === 83) return playDb3();
@@ -307,7 +307,7 @@ window.addEventListener("keydown", ({ keyCode }) => {
     if (keyCode === 9) return playF3();
 
     // Press 1
-    if (keyCode === 49) return playGb3();
+    if (keyCode === 1) return playGb3();
 
     // Press Q
     if (keyCode === 81) return playG3();
