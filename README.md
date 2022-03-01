@@ -11,7 +11,7 @@ This video is inspred by [YouTube Cat Piano-Play it with your computer keyboard]
 ## How to Play
 
 1. Use a mouse to click at the desired keys.
-2. Use keyboard. "1" to "0" correspond to the white keys from left to right. "q", "w", "r", "t", "y", "i", "o" correspond to the black keys from left to right. 
+2. Use keyboard. "1" to "0" correspond to the white keys from left to right. "q", "w", "r", "t", "y", "i", "o" correspond to the black keys from left to right. （Only lowercase letters are supported)
 
 ## Acknowledgements
 The audio files of each key is extracted from [YouTube Cat Piano-Play it with your computer keyboard][2].
