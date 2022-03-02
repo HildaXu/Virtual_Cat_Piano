@@ -2,6 +2,7 @@
 
 Try out the live Virtual Cat Piano [HERE][1]! 
 
+https://www.bilibili.com/video/BV1L341157ew?t=1.1
 https://www.bilibili.com/video/bv1L341157ew
 
 ## Project Summary
